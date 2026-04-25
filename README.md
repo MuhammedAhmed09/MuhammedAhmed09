@@ -53,9 +53,21 @@ I care about:
 
 ## 📌 Featured Work
 
-- https://clinic-system-gray.vercel.app/ – Next.js + Tailwind, responsive admin system
-- https://fashion-store-amber.vercel.app/ – Cart, checkout flow, product filtering
-- https://menu-cafe-omega.vercel.app/ – reusable UI system for scalable apps
+### 🏥 Clinic System
+Next.js • Tailwind • Admin Dashboard  
+🔗 https://clinic-system-gray.vercel.app/
+
+---
+
+### 🛒 Fashion Store
+E-commerce UI with cart & checkout flow  
+🔗 https://fashion-store-amber.vercel.app/
+
+---
+
+### ☕ Cafe Menu System
+Reusable UI components + responsive design  
+🔗 https://menu-cafe-omega.vercel.app/
 
 ---
 
@@ -66,7 +78,7 @@ I care about:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedAhmed09&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedAhmed09&show_icons=true&hide_title=true&hide_border=true" />
 </p>
 
 ---
@@ -90,3 +102,11 @@ I care about:
 <p align="center">
 Focused on building products that are simple, fast, and scalable.
 </p>
+
+---
+
+## 🤝 Open to Opportunities
+
+I’m currently looking for Frontend Developer opportunities (Intern / Junior).
+
+Feel free to reach out if you’re hiring or collaborating on web projects.
