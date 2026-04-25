@@ -27,6 +27,7 @@ I care about:
 - Next.js
 - TypeScript
 - Tailwind CSS
+- shadcn/UI
 
 **Tools & Workflow**
 - Git & GitHub
@@ -48,22 +49,20 @@ I care about:
 
 ## 📌 Featured Work
 
-> (Replace with your real projects — important for HR)
-
-- **SaaS Dashboard UI** – Next.js + Tailwind, responsive admin system
-- **E-commerce Platform** – Cart, checkout flow, product filtering
-- **Component Library** – reusable UI system for scalable apps
+- https://clinic-system-gray.vercel.app/ – Next.js + Tailwind, responsive admin system
+- https://fashion-store-amber.vercel.app/ – Cart, checkout flow, product filtering
+- https://menu-cafe-omega.vercel.app/ – reusable UI system for scalable apps
 
 ---
 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedAhmed09&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedAhmed09&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -71,16 +70,16 @@ I care about:
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAhmed09&hide_border=true" />
 </p>
 
 ---
 
 ## 📬 Contact
 
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your-email@example.com  
+- LinkedIn: https://www.linkedin.com/in/mohamed-ahmed-a29078307/
+- GitHub: https://github.com/MuhammedAhmed09  
+- Email: muhammedahmedragab@gmail.com 
 
 ---
 
